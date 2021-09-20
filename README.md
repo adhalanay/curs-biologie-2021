@@ -1,7 +1,7 @@
 # README #
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/git@github.com:adhalanay/curs-biologie-2021.git/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adhalanay/curs-biologie-2021/HEAD)
 
 This README would normally document whatever steps are necessary to get your application up and running.
 
