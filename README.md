@@ -3,30 +3,9 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adhalanay/curs-biologie-2021/HEAD)
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Dacă doriți să rulați notebook-urile pe calculatoarele de acasă aveți nevoie de:
+1. [Git](https://git-scm.com/) pentru a clona codul de față;
+2. Limbajul [Julia](https://julialang.org/) cu pachetul [IJulia](https://github.com/JuliaLang/IJulia.jl);
+3. Sistemul [Jupyter](https://jupyter.org/) instalat în mod normal la punctul precedent.
 
-### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
